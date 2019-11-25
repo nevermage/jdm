@@ -1,2 +1,2 @@
-﻿write('B= ');
-writeln('-3');
+﻿write('A= ');
+writeln('54');
